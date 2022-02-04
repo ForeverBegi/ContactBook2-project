@@ -1,0 +1,20 @@
+
+
+h2 {
+    color: violet;
+}
+
+.form-block{
+    width: 100% !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+
+}
+
+.filled-basic{
+    margin-bottom: 10px !important;
+}
+

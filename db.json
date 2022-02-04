@@ -1,0 +1,60 @@
+{
+  "contacts": [
+    {
+      "name": "Mom",
+      "number": "0555030237",
+      "email": "sagynbu@mail.ru",
+      "photo": "https://im0-tub-ru.yandex.net/i?id=f4771fff447c2bba958a756542d9b4cc-l&ref=rim&n=13&w=640&h=640",
+      "id": 3
+    },
+    {
+      "name": "Beksultan",
+      "number": "0555555720",
+      "email": "b.zhanybekov@gmail.com",
+      "photo": "https://pm1.narvii.com/7646/c11bd3c35ebdcd0090080d2e71e1cbab4d5dec9er1-1080-1080v2_hq.jpg",
+      "id": 4
+    },
+    {
+      "name": "Nursultan",
+      "number": "0999499499",
+      "email": "zh.nurs@gmail.com",
+      "photo": "https://data.whicdn.com/images/242967032/original.jpg",
+      "id": 5
+    },
+    {
+      "name": "Alyu",
+      "number": "0555400010",
+      "email": "abdieva@gmail.com",
+      "photo": "https://i.pinimg.com/736x/0b/17/73/0b1773ba7e235baded05f6cd712c1f45.jpg",
+      "id": 6
+    },
+    {
+      "name": "Azhar",
+      "number": "0559407107",
+      "email": "kermalieva@gmail.com",
+      "photo": "https://im0-tub-ru.yandex.net/i?id=0dd211f15afb71695c7e7057b96c65db-l&ref=rim&n=13&w=640&h=640",
+      "id": 7
+    },
+    {
+      "name": "Elya",
+      "number": "0999331331",
+      "email": "samar@gmail.com",
+      "photo": "https://s13.favim.com/orig/160305/best-friends-cali-california-dream-Favim.com-4057028.jpg",
+      "id": 8
+    },
+    {
+      "name": "Kam",
+      "number": "0551129840",
+      "email": "sardarova@gmail.com",
+      "photo": "https://im0-tub-ru.yandex.net/i?id=4fde995307a56c66a6389147fbd2f302-l&ref=rim&n=13&w=983&h=983",
+      "id": 9
+    },
+    {
+      "name": "Saltusha",
+      "number": "0706786666",
+      "email": "apysheva@gmail.com",
+      "photo": "https://i.pinimg.com/736x/53/f4/69/53f469caedb0d6572e67be48223c1e49.jpg",
+      "id": 10
+    }
+  ]
+}
